@@ -8,6 +8,8 @@ Please note that the backend server operates on-demand by design to manage AI in
 
 For grading or testing, please contact the Scrum Master at (202) 873-6662 or (682) 364-0822 to start the hosted backend server. Once requested, the server typically becomes fully operational within 30–60 seconds. After that, you will be able to access, test, and use all StudyBuddy features without any issues.
 
+Once the server is started, we usually keep it running for approximately 2 hours to give users ample time for testing. After that, it is turned off again. If needed, you can notify us in advance, and we can keep it running for an entire day as well.
+
 We are also in discussions with Heroku and AWS to obtain free credits through student programs so that, in the future, the backend can be hosted to run 24/7.`;
 
 function App() {
